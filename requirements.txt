@@ -1,5 +1,8 @@
-streamlit
+﻿streamlit
 python-dotenv
 langgraph
+langchain-groq
+langchain-community
+tavily-python
 requests
 streamlit-lottie
